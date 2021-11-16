@@ -1,0 +1,38 @@
+body {
+}
+
+#title {
+  background-color: #f6edcf;
+  margin-bottom: -1rem;
+}
+
+#menu {
+  text-align: center;
+  letter-spacing: 0.5rem;
+  word-spacing: 5rem;
+  background-color: #a4d7e1;
+}
+#mainBody {
+  background-color: #daf1f9;
+  padding: 2rem 6rem;
+  align-self: auto;
+}
+
+.titleName {
+  text-align: center;
+  font-family: "Hurricane", cursive;
+  font-weight: bolder;
+  padding-top: 2rem;
+  font-size: 4.5rem;
+}
+
+.firstArt {
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.firstArt:hover {
+}
+.secondArt {
+  margin: -1rem 4rem;
+}
